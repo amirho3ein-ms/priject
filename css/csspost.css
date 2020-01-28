@@ -1,0 +1,36 @@
+div.br1
+{
+    margin-right: 17px;
+    margin-top: 17px;
+    border: 1px solid ;
+    height: 550px ;
+    width: 97%;
+    
+}
+form
+{
+    display: inline-grid;
+margin-right: 512px;
+}
+form button
+{
+    width: 80px;
+    height: 25px;
+    border: none;
+}
+form input
+{
+    margin-top: 10px ;
+}
+form textarea 
+{
+    margin-top: 10px;
+}
+form select
+{
+    margin-top: 10px;
+}
+form button{
+    margin-top: 10px;
+    margin-right: 85px;
+}
